@@ -21,4 +21,3 @@ This project analyzes **sales data** to find key insights, helping businesses ma
 ## 📷 Visualizations  
 ✔️ **Bar Charts** for product sales  
 ✔️ **Pie Charts** for payment method distribution  
-✔️ **Heatmaps (optional)** for city-wise sales performance  
